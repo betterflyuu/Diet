@@ -1,0 +1,10 @@
+{
+  "name": "Ruang Fit — Personal Diet Planner",
+  "short_name": "Ruang Fit",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#17251f",
+  "description": "Planner diet, meal planner, workout rumahan, checklist, dan pelacak progres.",
+  "icons": []
+}
